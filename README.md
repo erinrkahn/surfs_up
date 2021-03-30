@@ -13,9 +13,9 @@ The purpose of this analysis is to analyze temperature trends on Oahu to inform 
 * A central tendency analysis on 1,700 daily temperature data points for June and 1,517 for December shows that there is a 4 degree difference in the average temperatures for June and December. June's mean temperature is 75˚F and December's is 71˚F. 
 
 ###### Average Temperatures for June and December
-> June
+> June![june_mean](https://user-images.githubusercontent.com/77405273/113019637-ace6cb00-9136-11eb-9fad-8037546e9b40.png)
 
-> December
+> December![dec_mean](https://user-images.githubusercontent.com/77405273/113019639-ad7f6180-9136-11eb-817e-9d45a9836b48.png)
 
 * There is a difference of 8˚F between the minimum temperatures for June and December in Oahu. June's lowest temperature is 64˚F while December's is 56˚F.
 
