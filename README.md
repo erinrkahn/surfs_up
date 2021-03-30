@@ -40,6 +40,7 @@ The purpose of this analysis is to analyze temperature trends on Oahu to inform 
 ![june_max](https://user-images.githubusercontent.com/77405273/113019651-aeb08e80-9136-11eb-9090-8d82ab2deb70.png)
 
 > December
+
 ![dec_max](https://user-images.githubusercontent.com/77405273/113019655-af492500-9136-11eb-8483-bb07b967b0fa.png)
 
 ## Summary
