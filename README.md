@@ -1,4 +1,4 @@
-# Surfs_up Weather Analysis
+# Surfs_Up Weather Analysis
 
 ## Overview of the Analysis 
 
@@ -14,27 +14,46 @@ The purpose of this analysis is to analyze temperature trends on Oahu to inform 
 
 ###### Average Temperatures for June and December
 > June
+
 > December
 
 * There is a difference of 8˚F between the minimum temperatures for June and December in Oahu. June's lowest temperature is 64˚F while December's is 56˚F.
 
 ###### Minimum Temperatures for June and December
 > June
+
 > December
 
 * There is a difference of only 2˚F between the maximum temperatures for June and December in Oahu. June's highest temperature is 85˚F while December's is 83˚F.
 
 ###### Maximum Temperatures for June and December
 > June
+
 > December
 
 ## Summary
 
-__Bold Question__
+__Temperature Analysis for June and December__
 
-* Bullet
+June's temperature ranges from 64˚F-85˚F throughout the year, a difference of 21˚F. December's temperture ranges from 56˚F-83˚F, a difference of 27˚F. With only a 4˚F difference between the months' averge temperatures and a mean temperature between 71˚F-75˚F, there should be no concerns about opening the Surf and Ice Cream shop on Oahu.  
+
+###### Overall Temperature Analysis for June and December
+> June
+
+> December
 
 ### Additional Considerations
 
-###### Image
->
+Additionally, we ran two more analyses to compare the weather between June and December. In June, precipitation data shows that the average rainfall is 0.14 with a maximum of 4.43. In December, the average rainfall is 0.22 with a maximum of 6.42. These precipitation levels should keep the surrounding area green, but are not indicitive of a heavy rainy season during either month. 
+
+###### Precipiation Analysis for June and December
+> June
+
+> December
+
+As an additional comparison, temperatures from March and September were also analyzed. The average temperature in March is 70˚F and in September it is 76˚F, both within the average temeprature ranges of January and December, furthere supporting our recommendation of moving forward with the plans to open up on Oahu.
+
+###### Temperature Analysis for March and September
+> March
+
+> September
